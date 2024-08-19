@@ -19,5 +19,7 @@ requirements.txt: List of Python libraries and dependencies required to run the 
 
 # Acknowledgments
 Kaggle Dataset - The dataset used in this project.
+
 scikit-learn - The primary machine learning library used.
+
 imbalanced-learn - Used for handling imbalanced datasets
